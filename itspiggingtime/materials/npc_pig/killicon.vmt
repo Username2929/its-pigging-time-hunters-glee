@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_pig/pig"
+	"$alphatest" 1
+}

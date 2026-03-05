@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "npc_pig/pig"
+	"$translucent" 1
+	"$vertexalpha" 1
+}
